@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://zainphone.com/sitemap.xml
+Sitemap: https://zainphone.vercel.app/sitemap.xml
